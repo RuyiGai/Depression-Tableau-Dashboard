@@ -4,6 +4,9 @@
   <img src="images/dashboard.png" alt="Depression Tableau Dashboard Preview" width="900">
 </p>
 
+🔗 **Live Dashboard (Tableau Public)**  
+👉 https://public.tableau.com/app/profile/ruyigai/viz/Depressiondataanalysis/Dashboard
+
 This project presents an interactive **Tableau dashboard** that explores
 potential influencing factors of **depression** through multi-dimensional data analysis.
 
